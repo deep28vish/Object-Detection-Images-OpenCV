@@ -12,10 +12,10 @@ These are sample codes ready to run without any prior knowledge of AI, ML DNN, C
 * haar_cascades[Folder with all the required classifiers]
 * Object_detection_images.py
 * Sample_input_images:
-** cr02.png
-** crowd1.jpg
+    * cr02.png
+    * crowd1.jpg
 * Sample_output_images:
-** eyes_faces.png
+    * eyes_faces.png
 
 ## Inspiration
 * [SENTDEX](https://pythonprogramming.net/)
